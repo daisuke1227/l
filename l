@@ -121,7 +121,7 @@ local PredictionValue = 0.1259910
                 if Settings.rewrittenmain.NOTIF == true then
                     Plr = getClosestPlayerToCursor()
                 game.StarterGui:SetCore("SendNotification", {
-						Title = "esex? karl#6666",
+						Title = "Lock at someone",
 						Text = "Unlocked",
 						Icon = "",
 						Duration = 2,
@@ -133,7 +133,7 @@ local PredictionValue = 0.1259910
                 if Settings.rewrittenmain.NOTIF == true then
 
                     game.StarterGui:SetCore("SendNotification", {
-						Title = "esex? karl#6666",
+						Title = "LunarWare Lock",
 						Text = "Locked On :"..tostring(Plr.Name); 
 						Icon = "",
 						Duration = 2,
