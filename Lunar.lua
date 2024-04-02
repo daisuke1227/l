@@ -1,20 +1,3 @@
---[[
-
-██╗  ██╗ █████╗ ██████╗ ██╗    ██╗    ██╗
-██║ ██╔╝██╔══██╗██╔══██╗██║    ██║    ██║
-█████╔╝ ███████║██████╔╝██║    ██║ █╗ ██║
-██╔═██╗ ██╔══██║██╔══██╗██║    ██║███╗██║
-██║  ██╗██║  ██║██║  ██║██████╗╚███╔███╔╝
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══╝╚══╝ 
-
---]]
-
---i didnt make this lock, i just made it better
---minecraft terms : i went from a wooden sword to a diamond enchanted sword
---fortnite terms : i went from using a common assault rifle to a golden scar
---da hood terms : i had 1K dhc now i have 100M dhc
---roblox terms : i had 0 robux on my acc, but later 1M
-
 local Settings = {
     rewrittenmain = {
         Enabled = true,
